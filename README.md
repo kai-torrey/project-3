@@ -14,3 +14,7 @@ acknowledgement:
 hover:https://www.w3schools.com/cssref/sel_hover.php
 background-image:https://www.w3schools.com/css/css_background_image.asp
 full-height:https://www.w3schools.com/howto/howto_css_full_page.asp
+
+asset/mockup:
+<img src="img/KTorrey_DES228_Project3_Asset copy 2.pdf">
+<img src="img/KTorrey_DES228_Project3_Mockup 2.pdf">
