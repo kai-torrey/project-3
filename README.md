@@ -7,7 +7,7 @@ To appeal to our audience of families, parents/guardians, and children the visua
 
 pre-production:
 
-wireframes:https://www.figma.com/design/BPvsnd8WdLilSogk9W6TuQ/KTorrey-DES-228-Projet-3-Wireframes?node-id=4-2&t=74M98LlgKyWtKtE7-1
+wireframes:https://www.figma.com/design/JzhBXO6uR1W8pTJOZrN8RB/Untitled?node-id=0-1&t=leAi5oj3OoSReUGF-1
 
 style guide:https://drive.google.com/drive/folders/1zlWTKSy56mfnefpD4aqL8mpAu4y826BW?dmr=1&ec=wgc-drive-hero-goto
 
@@ -15,6 +15,8 @@ acknowledgement:
 hover:https://www.w3schools.com/cssref/sel_hover.php
 background-image:https://www.w3schools.com/css/css_background_image.asp
 full-height:https://www.w3schools.com/howto/howto_css_full_page.asp
+visited-onks(icons):https://www.shecodes.io/athena/36390-how-to-make-a-link-not-change-color-after-being-visited-in-css#:~:text=The%20text%2Ddecoration%3A%20none%3B,property%20to%20remove%20the%20underline.
+felxbox:https://codeburst.io/how-to-position-html-elements-side-by-side-with-css-e1fae72ddcc
 
 asset/mockup:
 <img src="img/KTorrey_DES228_Project3_Asset copy 2.pdf">
