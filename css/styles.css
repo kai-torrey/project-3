@@ -153,7 +153,6 @@ font-style: normal;
 h3{
     font-size: 1.5em;
     font-family: "Noto Sans", sans-serif;
-    text-align: center;
     color: black;
     
    
@@ -197,6 +196,27 @@ justify-content: space-around;
 
 }
 
+#sponcer{
+    width: 20%;
+    float: left;
+}
+
+.jcas{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+   
+}
+
+.jcas p{
+    font-family: "Noto Sans", sans-serif; 
+    width: 50%;
+    margin-top: 5%;
+   
+}
+
+
+
 .mission{
     justify-content: center;
     margin-top: 2%;
@@ -219,9 +239,17 @@ justify-content: space-around;
     margin-left: 12%;
 }
 
+#volcano:hover{
+    width: 90%;
+}
+
 #art{
     width: 70%;
     
+}
+
+#art:hover{
+    width: 90%;
 }
 
 #tix{
@@ -229,6 +257,10 @@ justify-content: space-around;
     width: 90%;
     margin-left: 4%; 
     margin-bottom: 20%;
+}
+
+#tix:hover{
+    width: 110%;
 }
 
 #sold{
@@ -255,12 +287,17 @@ justify-content: space-around;
   
 }
 
-#info{
-    text-align: center;
-    justify-content: center;
-    margin-top: 20%;
+
+
+#info1{
+    text-align: left;
+    margin-top: 15%;
 }
 
+#info2{
+    text-align: right;
+    margin-top: 15%;
+}
 
 #rocket{
     width: 45.5%;
@@ -330,8 +367,10 @@ footer{
 .socials a{
     text-decoration: none;
     color: white;
-    
+    margin-left: 2%;
 }
+
+
 
 
 
